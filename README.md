@@ -4,7 +4,7 @@ This Repository is a part of project Hosted by National Big data innovation hub 
 
 # Project scope
 
-We had taken chicago city as the anchor for the project, each and every analysis involves the [Accidents dataset](https://drive.google.com/file/d/1CVEgeY5URCClgMMtbOYNSj4na9LNVZHL/view?usp=sharing), that we had obtained from the https://data.cityofchicago.org/ portal. The data ranges from 2016-2024 (2013,2014,2015 and 2025) were not considered due to insufficient data. The goal of this project is to analyse the accidents caused by "Worn roads" in the souther chicago and at the end the major findings of the project are made into a one page poster.
+We had taken chicago city as the anchor for the project, each and every analysis involves the [Accidents dataset](https://drive.google.com/file/d/1CVEgeY5URCClgMMtbOYNSj4na9LNVZHL/view?usp=sharing), that we had obtained from the https://data.cityofchicago.org/ portal. The data ranges from 2016-2024 (2013,2014,2015 and 2025 were not considered due to insufficient data). The goal of this project is to analyse the accidents caused by "Worn roads" in the souther chicago and at the end the major findings of the project are made into a one page poster. During the process we also take the liberty in analysing the Time series, weather and lighting. 
 
 # Project Walk through
 
